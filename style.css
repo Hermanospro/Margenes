@@ -1,0 +1,32 @@
+.cuadro{
+margin-top:40px;
+margin-left:40px;
+width:400px;
+height:500px;
+background-color:green;
+}
+.cuadrin{
+position: relative;
+top:24px;
+left:25px;
+width:350px;
+height:450px;
+background-color:white;
+}
+.cuadron{
+position: relative;
+top:25px;
+left:25px;
+width:300px;
+height:400px;
+background-color:#efb810;
+}
+.cuadrun{
+margin-top:85px;
+margin-left:380px;
+margin-right:40px
+margin-buttom:20px;
+width:250px;
+height:40px;
+background-color:red;
+}
